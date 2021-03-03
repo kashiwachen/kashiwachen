@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Oscar, a new graduate student who just starts his career in 2020.
+Currently, I am still a little confused of my career path so I am gonna try stuff as much as possible and as soon as possible to figure it out. 
 I like trying new stuff and agree with the idea that we should keep learning in our whole life.
-
+If you want to work or play with me 
 
 - 🔭 I’m currently working on the web development and part of backend stuff.
 - 🌱 I’m currently learning knowledge of database structure, batch processing, stream processing, and AirFlow.
@@ -10,5 +11,5 @@ I want to make a complete framework for data processing, storage and management.
 I have read several guidlines about how to do the competitions, but none of them help me to have fast output. 
 - 🤔 I’m looking for help with the career path in data engineer. I don't have enought experience in exploring the insight of data so I think deploy the infrastructure for data analysis is a good start.
 - 📫 How to reach me: pochiachen0321@gmail.com 
-- ⚡ Interest: Cooking & drinking & Outdoor activity.
+- ⚡ Interest: Cooking & drinking & Outdoor activity(e.g. Hiking, Cycling, Basketball etc.).
 Sometimes I even think I should have been a cook or worked in a alchohol factory
