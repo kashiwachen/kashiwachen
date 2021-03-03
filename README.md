@@ -2,7 +2,7 @@
 My name is Oscar, a new graduate student who just starts his career in 2020.
 Currently, I am still a little confused of my career path so I am gonna try stuff as much as possible and as soon as possible to figure it out. 
 I like trying new stuff and agree with the idea that we should keep learning in our whole life.
-If you want to work or play with me 
+I am living in Tokyo, so if you want to work or play with me feel free to contact me.
 
 - 🔭 I’m currently working on the web development and part of backend stuff.
 - 🌱 I’m currently learning knowledge of database structure, batch processing, stream processing, and AirFlow.
