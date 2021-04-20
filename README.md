@@ -17,10 +17,10 @@ Sometimes I even think I should have been a cook or worked in a alchohol factory
 Git Status
 ------
 
-[![Suxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&theme=nord)](https://github.com/JohnLyu94/github-readme-stats)
+[![Suxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills & Tools
 -------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwachen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwachen&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
