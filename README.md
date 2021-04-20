@@ -13,3 +13,13 @@ I have read several guidlines about how to do the competitions, but none of them
 - 📫 How to reach me: pochiachen0321@gmail.com 
 - ⚡ Interest: Cooking & drinking & Outdoor activity(e.g. Hiking, Cycling, Basketball etc.).
 Sometimes I even think I should have been a cook or worked in a alchohol factory
+
+Git Status
+------
+
+[![Suxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&theme=nord)](https://github.com/JohnLyu94/github-readme-stats)
+
+Skills & Tools
+-------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwachen&layout=compact&theme=nord)](https://github.com/JohnLyu94/github-readme-stats)
