@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Oscar, a new graduate student who just starts his career in 2020.
-Currently, I am still a little confused of my career path so I am gonna try stuff as much as possible and as soon as possible to figure it out. 
+Currently, I am learning along the career path of data engineer.
+Compare to being a data scientist, I find it's more fun to build up the data processing system as a data engineer even though sometimes we need to play in "dirt" because of the variety of data itself.
+It's quite exciting to see the system working automatically and reducing the unnecessary manual effort.
 I like trying new stuff and agree with the idea that we should keep learning in our whole life.
 I am living in Tokyo, so if you want to work or play with me feel free to contact me.
 
