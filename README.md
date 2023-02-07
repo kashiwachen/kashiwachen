@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="substack">
+  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://kashiwachen.substack.com/" />
+</a>
+<br>
+<br>
+
 This is Oscar.
 I like trying new stuff and embrace lifelong learning.
 I am living in Tokyo, so if you want to work or play with me feel free to contact me.
@@ -15,9 +21,3 @@ Git Status
 ------
 
 [![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-Skills & Tools
--------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashiwachen&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
