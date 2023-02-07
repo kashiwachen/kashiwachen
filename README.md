@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="substack">
+<a href="https://kashiwachen.substack.com/">
   <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://kashiwachen.substack.com/" />
 </a>
 <br>
