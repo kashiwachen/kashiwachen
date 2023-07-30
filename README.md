@@ -2,6 +2,10 @@
 <a href="https://kashiwachen.substack.com/">
   <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20BLOG&style=for-the-badge&up_message=open&up_color=blue&url=https://kashiwachen.substack.com/" />
 </a>
+<a href="https://kashiwachen.netlify.app/">
+  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20SITE&style=for-the-badge&up_message=open&up_color=blue&url=https://kashiwachen.netlify.app/" />
+</a>
+
 <br>
 <br>
 
