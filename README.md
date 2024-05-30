@@ -1,10 +1,7 @@
 ### Hi there 👋
-<a href="https://linktr.ee/kashiwachen">
-  <img align="left" src="https://img.shields.io/website?down_color=red&down_message=down&label=MY%20Linktree&style=for-the-badge&up_message=open&up_color=blue&url=https://linktr.ee/kashiwachen" />
-</a>
 
-<br>
-<br>
+[![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kashiwachen)
+
 
 This is Oscar.
 I like trying new stuff and embrace lifelong learning.
