@@ -18,4 +18,4 @@ Sometimes I even think I should have been a cook :joy:.
 Git Status
 ------
 
-[![Oscar's GitHub stats](https://github-readme-stats-dun-phi-98.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Oscar's GitHub stats](https://github-readme-stats-dun-phi-98.vercel.app/api?username=kashiwachen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
