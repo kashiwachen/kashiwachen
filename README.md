@@ -5,4 +5,4 @@
 
 This is Oscar.
 I like trying new stuff and embrace lifelong learning.
-I am living in Tokyo, so if you want to work or play with me feel free to contact me.
+I am living in Tokyo, so if you want to work or play with me feel free to reach out.
